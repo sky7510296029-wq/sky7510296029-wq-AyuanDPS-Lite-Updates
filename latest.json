@@ -1,7 +1,7 @@
 {
   "product": "AyuanDPS_Lite",
-  "version": "1.0.10-Beta11",
-  "packageUrl": "https://raw.githubusercontent.com/sky7510296029-wq/sky7510296029-wq-AyuanDPS-Lite-Updates/main/releases/AyuanDPS_Lite_1.0.10-Beta11_Update.zip",
-  "sha256": "2B8DDD87B86EF7BA7EF755530771849B662E5976A29D3CE8534999823FF5A603",
-  "notes": "Beta11：自訂快捷鍵、HUD 縮放時字體自適應、BOSS 繁中顯示、自動更新恢復；保留離隊修正、單例保護、自訂背景與手動 ZIP 更新。"
+  "version": "1.0.12-Beta13",
+  "packageUrl": "https://raw.githubusercontent.com/sky7510296029-wq/sky7510296029-wq-AyuanDPS-Lite-Updates/main/releases/AyuanDPS_Lite_1.0.12-Beta13_Update.zip",
+  "sha256": "5697AD2E9011A636C2C05A7BA8DD3A61CEC2E4AB6ED794B82D713EFB27CF32F8",
+  "notes": "Beta13：修正 Beta12 啟動編譯阻擋、GitHub TLS 1.2 自動更新、更新後完整刷新舊 LOG/原始 stream logs、Core Ready 雙重驗證與失敗啟動診斷保留；保留新背景、智慧隱藏 V2、自訂快捷鍵、字體自適應與 BOSS 中文。"
 }
