@@ -2,14 +2,14 @@
   "product": "AyuanDPS_Lite",
   "version": "1.0.14-Beta15",
   "packageParts": [
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed01.b64",
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed02.b64",
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed03.b64",
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed04.b64",
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed05.b64",
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed06.b64",
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed07.b64",
-    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.fixed08.b64"
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part01.b64",
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part02.b64",
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part03.b64",
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part04.b64",
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part05.b64",
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part06.b64",
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part07.b64",
+    "releases/AyuanDPS_Lite_1.0.14-Beta15_Update.part08.b64"
   ],
   "sha256": "21B6274319C0370B61EA0E002E24856C67BC91F8300459D0AC3C95D161F14CD6",
   "notes": "Beta15：智慧隱藏 V4 修正地圖。遊戲預設 M 地圖鍵會直接隱藏 DPS HUD，不攔截遊戲按鍵；再按 M、ESC 或確認回到正常遊戲後自動恢復。保留背包/技能/拍賣視覺偵測、LOG 刷新、自動更新與前版所有功能。"
