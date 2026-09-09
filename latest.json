@@ -1,7 +1,7 @@
 {
   "product": "AyuanDPS_Lite",
-  "version": "1.0.7-Beta8",
-  "packageUrl": "https://raw.githubusercontent.com/sky7510296029-wq/AyuanDPS-Lite-Updates/main/releases/AyuanDPS_Lite_1.0.7-Beta8_Update.zip",
-  "sha256": "62A7006C98563B3EE71EA2E1D7F2BA1FB47632BF913A8673247D1371D82D0C52",
-  "notes": "Beta8：內建固定 GitHub 自動更新 Feed；保留自訂 HUD 背景、60%～140% 縮放、離隊隊友殘留修正與戰鬥後安全更新。"
+  "version": "1.0.10-Beta11",
+  "packageUrl": "https://raw.githubusercontent.com/sky7510296029-wq/sky7510296029-wq-AyuanDPS-Lite-Updates/main/releases/AyuanDPS_Lite_1.0.10-Beta11_Update.zip",
+  "sha256": "2B8DDD87B86EF7BA7EF755530771849B662E5976A29D3CE8534999823FF5A603",
+  "notes": "Beta11：自訂快捷鍵、HUD 縮放時字體自適應、BOSS 繁中顯示、自動更新恢復；保留離隊修正、單例保護、自訂背景與手動 ZIP 更新。"
 }
