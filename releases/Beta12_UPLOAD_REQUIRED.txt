@@ -1,0 +1,1 @@
+Beta12 update package is prepared locally but not yet uploaded here. Do not point latest.json to Beta12 until AyuanDPS_Lite_1.0.11-Beta12_Update.zip is present.
